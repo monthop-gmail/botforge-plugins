@@ -1,0 +1,6 @@
+[submodule "plugins/botforge-task-queue"]
+	path = plugins/botforge-task-queue
+	url = https://github.com/monthop-gmail/botforge-task-queue.git
+[submodule "plugins/botforge-network-drive"]
+	path = plugins/botforge-network-drive
+	url = https://github.com/monthop-gmail/botforge-network-drive.git
